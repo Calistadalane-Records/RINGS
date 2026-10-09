@@ -1,10 +1,10 @@
-[Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [Rings](../README.md) ❰ That Way Be Night
+[Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [Rings](../README.md) ❰ This Way Be Night
 
 <br/>
 
 <div align="center">
 
-  ![](ThatWayBeNight-512x512.png)
+  ![](ThisWayBeNight-512x512.png)
 
   | Track  | Title |
   |:------:|:------|
@@ -20,4 +20,4 @@
 
 ***
 
-[Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [Rings](../README.md) ❰ That Way Be Night
+[Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [Rings](../README.md) ❰ This Way Be Night
