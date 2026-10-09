@@ -10,7 +10,7 @@
 
   <br/>
 
-  [![](./ThistWayBeNight/ThisWayBeNight-256x256.png)](./ThisWayBeNight/README.md)
+  [![](./ThisWayBeNight/ThisWayBeNight-256x256.png)](./ThisWayBeNight/README.md)
 
   <h3>This Way Be Night</h3>
 
