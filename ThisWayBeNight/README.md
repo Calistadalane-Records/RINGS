@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  RINGS - This Way Be Night
+  <h3>RINGS - This Way Be Night</h3>
 
   ![](ThisWayBeNight-512x512.png)
 
