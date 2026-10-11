@@ -20,6 +20,12 @@
 
 <br/>
 
+Release: 2005
+
+### Notes
+
+* Track 3: Cover of "Gimmie That Nut" written by DJ Yella & Eazy-E
+
 ***
 
 [Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [Rings](../README.md) ❰ This Way Be Night
